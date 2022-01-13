@@ -1,0 +1,19 @@
+{
+  "name": "imageapi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "imageApi.js",
+  "scripts": {
+    "start": "nodemon imageApi.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.10",
+    "cherio": "^1.0.0-rc.2",
+    "express": "^4.17.1",
+    "https": "^1.0.0",
+    "nodemon": "^2.0.15",
+    "request": "^2.88.2"
+  }
+}
